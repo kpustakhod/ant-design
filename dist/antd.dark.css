@@ -23889,7 +23889,7 @@ div.ant-table-summary {
   background-color: transparent !important;
 }
 .ant-table-thead th.ant-table-column-has-sorters:focus {
-  color: var(--ant-primary-color);
+  color: #177ddc;
 }
 .ant-table-thead th.ant-table-column-has-sorters.ant-table-cell-fix-left:hover,
 .ant-table-thead th.ant-table-column-has-sorters.ant-table-cell-fix-right:hover {
